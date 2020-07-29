@@ -1,7 +1,7 @@
 # aeo_savedgame_analysis
 This GUI has been developed for the Age Of Empires game. Analyzes the saved game file. Draws and organizes the information of the players and draws related graphics.
 
-<a href="http://fvcproductions.com"><img src="https://avatars1.githubusercontent.com/u/4284691?v=3&s=200" title="FVCproductions" alt="FVCproductions"></a>
+<a href=""><img src="https://benaball.com/2011/01/22/fix-age-of-empires-2-star-wars-galactic-battlegrounds-cant-find-saved-scenario-files-in-explorer/"></a>
 
 <!-- [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) -->
 
