@@ -1,26 +1,23 @@
 # aeo_savedgame_analysis
 This GUI has been developed for the Age Of Empires game. Analyzes the saved game file. Draws and organizes the information of the players and draws related graphics.
 
-<a href=""><img src="https://benaball.com/2011/01/22/fix-age-of-empires-2-star-wars-galactic-battlegrounds-cant-find-saved-scenario-files-in-explorer/"></a>
+# AgeOfEmpires Saved Game File Data Analysis
 
-<!-- [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) -->
+> Download aotstats.txt
 
-***INSERT GRAPHIC HERE (include hyperlink in image)***
+> Omport saved game file
 
-# Repository Title Goes Here
+> Select player
 
-> Subtitle or Short Description Goes Here
+> Get info from data
 
-> ideally one sentence
+> Plot game statistics
 
-> include terms/tags that can be searched
+> Select play speed
+
+> Replay game from saved file
 
 **Badges will go here**
-
-
-
-- Most people will glance at your `README`, *maybe* star it, and leave
-- Ergo, people should understand instantly what your project is about based on your repo
 
 
 
@@ -30,10 +27,6 @@ This GUI has been developed for the Age Of Empires game. Analyzes the saved game
 
 - [Installation](#installation)
 - [Features](#features)
-- [Contributing](#contributing)
-- [Team](#team)
-- [FAQ](#faq)
-- [Support](#support)
 - [License](#license)
 
 
