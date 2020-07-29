@@ -46,13 +46,9 @@ This GUI has been developed for the Age Of Empires game. Analyzes the saved game
 - Use <a href="http://recordit.co/" target="_blank">**Recordit**</a> to create quicks screencasts of your desktop and export them as `GIF`s.
 - For terminal sessions, there's <a href="https://github.com/chjj/ttystudio" target="_blank">**ttystudio**</a> which also supports exporting `GIF`s.
 
-**Recordit**
+**Peek**
 
-![Recordit GIF](http://g.recordit.co/iLN6A0vSD8.gif)
-
-**ttystudio**
-
-![ttystudio GIF](https://raw.githubusercontent.com/chjj/ttystudio/master/img/example.gif)
+![Recordit GIF](https://github.com/mustafaabdullahk/aeo_savedgame_analysis/blob/master/tutorial.gif)
 
 ---
 
