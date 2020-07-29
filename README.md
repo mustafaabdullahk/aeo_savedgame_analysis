@@ -28,9 +28,6 @@ This GUI has been developed for the Age Of Empires game. Analyzes the saved game
 - license
 - etc.
 
-***INSERT ANOTHER GRAPHIC HERE***
-
-[![INSERT YOUR GRAPHIC HERE](https://github.com/mustafaabdullahk/aeo_savedgame_analysis/blob/master/Screenshot_1.png)]()
 
 - Most people will glance at your `README`, *maybe* star it, and leave
 - Ergo, people should understand instantly what your project is about based on your repo
@@ -46,11 +43,7 @@ This GUI has been developed for the Age Of Empires game. Analyzes the saved game
 - Use <a href="http://recordit.co/" target="_blank">**Recordit**</a> to create quicks screencasts of your desktop and export them as `GIF`s.
 - For terminal sessions, there's <a href="https://github.com/chjj/ttystudio" target="_blank">**ttystudio**</a> which also supports exporting `GIF`s.
 
-**Peek**
 
-![Recordit GIF](https://github.com/mustafaabdullahk/aeo_savedgame_analysis/blob/master/tutorial.gif)
-
----
 
 ## Table of Contents (Optional)
 
@@ -103,6 +96,19 @@ $ bower install
 - Qt Creator installation guide, refer <a href="https://wiki.qt.io/Install_Qt_5_on_Ubuntu" target="_blank">here</a>.
 
 ---
+
+**Peek**
+
+![Recordit GIF](https://github.com/mustafaabdullahk/aeo_savedgame_analysis/blob/master/tutorial.gif)
+
+---
+
+***Screenshots**
+
+[![INSERT YOUR GRAPHIC HERE](https://github.com/mustafaabdullahk/aeo_savedgame_analysis/blob/master/screenshot_1.png)]()
+[![INSERT YOUR GRAPHIC HERE](https://github.com/mustafaabdullahk/aeo_savedgame_analysis/blob/master/screenshot_2.png)]()
+[![INSERT YOUR GRAPHIC HERE](https://github.com/mustafaabdullahk/aeo_savedgame_analysis/blob/master/screenshot_3.png)]()
+[![INSERT YOUR GRAPHIC HERE](https://github.com/mustafaabdullahk/aeo_savedgame_analysis/blob/master/screenshot_4.png)]()
 
 ## License
 
