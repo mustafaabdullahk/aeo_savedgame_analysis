@@ -81,9 +81,9 @@ This GUI has been developed for the Age Of Empires game. Analyzes the saved game
 
 ### Clone
 
-- Clone this repo to your local machine using `https://github.com/fvcproductions/SOMEREPO`
+- Clone this repo to your local machine using `https://github.com/mustafaabdullahk/aeo_savedgame_amaylsis`
 
-### Sequirements
+### Requirements
 
 - If you want more syntax highlighting, format your code like this:
 
@@ -92,6 +92,7 @@ This GUI has been developed for the Age Of Empires game. Analyzes the saved game
 ```shell
 $ sudo pip install pyqtgraph
 $ sudo pip install requests
+$ python -m pip install -U matplotlib
 $ sudo pip install PyQt5
 $ sudo pip install PyQt5
 ```
